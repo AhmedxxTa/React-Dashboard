@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Dashboard/static/css/main.979abc64.css",
+    "main.js": "/React-Dashboard/static/js/main.61f8e088.js",
+    "static/js/787.92af229c.chunk.js": "/React-Dashboard/static/js/787.92af229c.chunk.js",
+    "static/media/transportIcon.svg": "/React-Dashboard/static/media/transportIcon.654be71e906e9d7918a65f62380e2676.svg",
+    "index.html": "/React-Dashboard/index.html",
+    "static/media/cartIcon.svg": "/React-Dashboard/static/media/cartIcon.ad31a888590857c57aab3f8d2021e435.svg",
+    "static/media/houseIcon.svg": "/React-Dashboard/static/media/houseIcon.a0914e6ac4cf70465484ac3d1e6aea6a.svg",
+    "main.979abc64.css.map": "/React-Dashboard/static/css/main.979abc64.css.map",
+    "main.61f8e088.js.map": "/React-Dashboard/static/js/main.61f8e088.js.map",
+    "787.92af229c.chunk.js.map": "/React-Dashboard/static/js/787.92af229c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.979abc64.css",
+    "static/js/main.61f8e088.js"
+  ]
+}
